@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 sycamore = { git = "https://github.com/sycamore-rs/sycamore", rev = "9e764fb2b08760d0aceea558cf53980a9e4adc3f" }
+wee_alloc = "0.4.5"
 
