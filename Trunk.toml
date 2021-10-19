@@ -1,0 +1,3 @@
+[build]
+target = "wimdy_frontend/index.html"
+dist = "dist"
