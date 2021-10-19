@@ -1,0 +1,2 @@
+[workspace]
+members = ["wimdy_frontend"]
