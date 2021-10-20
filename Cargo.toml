@@ -1,5 +1,5 @@
 [workspace]
-members = ["wimdy_frontend"]
+members = ["wimdy_frontend", "wimdy_rocket"]
 
 [profile.release]
 panic = "abort"
