@@ -1,0 +1,7 @@
+CREATE TABLE target(
+    id TEXT PRIMARY KEY NOT NULL,
+    name TEXT NOT NULL,
+    season INTEGER NOT NULL,
+    kind TEXT NOT NULL,
+    votes INTEGER NOT NULL
+);
